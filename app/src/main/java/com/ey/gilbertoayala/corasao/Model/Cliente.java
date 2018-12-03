@@ -1,5 +1,7 @@
 package com.ey.gilbertoayala.corasao.Model;
 
+import java.util.Date;
+
 /**
  * Created by Gilberto Ayala on 02/12/2018.
  */
@@ -59,4 +61,6 @@ public class Cliente {
 //    public void setServicios(String servicios) {
 //        this.servicios = servicios;
 //    }
+
+
 }
